@@ -1,0 +1,29 @@
+{
+	"name": "ovf-flow",
+	"owner": {
+		"name": "ovftank",
+		"email": "ovftank@gmail.com"
+	},
+	"metadata": {
+		"description": "ovf-flow - awesome development tools",
+		"version": "1.0.0"
+	},
+	"plugins": [
+		{
+			"name": "ovf-flow",
+			"source": "./",
+			"description": "ovf-flow - awesome development tools",
+			"version": "1.0.0",
+			"author": {
+				"name": "ovftank",
+				"email": "ovftank@gmail.com"
+			},
+			"homepage": "https://github.com/ovftank/ovf-flow",
+			"keywords": ["development", "tools", "workflow", "productivity"],
+			"category": "productivity",
+			"tags": ["structured-thinking"],
+			"strict": true
+		}
+	]
+}
+

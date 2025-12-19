@@ -1,0 +1,10 @@
+{
+	"name": "ovf-flow",
+	"version": "1.0.0",
+	"description": "ovf-flow - awesome development tools",
+	"author": {
+		"name": "ovftank"
+	},
+	"keywords": ["development", "tools", "workflow", "productivity"]
+}
+
