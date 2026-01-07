@@ -12,9 +12,3 @@ claude plugin marketplace update ovf-flow
 # cài plugin
 claude plugin install ovf-flow@ovf-flow
 ```
-
-```bash
-# lên ý tưởng
-/brainstorm init "t muốn học astro cu ơi, chỉ t với"
-```
-

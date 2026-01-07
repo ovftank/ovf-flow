@@ -5,6 +5,6 @@
 	"author": {
 		"name": "ovftank"
 	},
-	"keywords": ["development", "tools", "workflow", "productivity"]
+	"keywords": ["development", "tools", "workflow", "productivity"],
+	"agents": ["./agents/frontend-debug.md"]
 }
-
